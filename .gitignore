@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados gerados (podem ser recriados rodando os scripts)
+dados/*.csv
+dados/*.db
+
+# Gráficos gerados
+graficos/*.png
+
+# Arquivos do PyCharm
+.idea/
+
+# Cache do Python
+__pycache__/
+*.pyc

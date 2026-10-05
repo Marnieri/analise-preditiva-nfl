@@ -1,0 +1,8 @@
+pandas
+nflreadpy[pandas]
+pyarrow
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly

@@ -1,0 +1,20 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados e modelos gerados pelo pipeline (recriados rodando 00_pipeline_semanal.py)
+nfl_dados.db
+previsoes_proxima_semana.csv
+resultados_ultima_rodada.csv
+historico_precisao_semanal.csv
+*.csv
+
+# Arquivos do PyCharm
+.idea/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache do Streamlit
+.streamlit/

@@ -1,0 +1,17 @@
+home_team,away_team,prob_casa_vencer_%,resultado_real,previsao_correta
+BUF,LAC,88.3,Casa venceu,True
+CHI,PHI,55.2,Casa venceu,True
+CLE,CAR,37.5,Casa venceu,False
+DAL,BAL,47.1,Visitante venceu,True
+DEN,LA,42.7,Casa venceu,False
+DET,NYJ,58.1,Casa venceu,True
+GB,ATL,72.3,Visitante venceu,False
+IND,HOU,54.0,Casa venceu,True
+JAX,NE,63.0,Casa venceu,True
+MIA,KC,20.8,Visitante venceu,True
+NO,LV,49.6,Visitante venceu,True
+NYG,TEN,54.6,Casa venceu,True
+PIT,CIN,29.8,Casa venceu,False
+SF,ARI,80.5,Casa venceu,True
+TB,MIN,31.5,Visitante venceu,True
+WAS,SEA,33.9,Casa venceu,False
